@@ -9,10 +9,11 @@
   <body>
     <div class="container-fuid" style="background:#3AB1B6 ;text-align:center">
 <h1>Bienvenidos al Itsao</h1>
+<h1>Jordy Alexis Cruz Martinez</h1>
 <img src="Cliente/img/th.jpg" width="330" height="350">
 
 </body>
-div>
+
 
 
 <div class="container" style="background:#3D1CC1 ;  text-align:center">
